@@ -10,3 +10,5 @@ lm(y~x1 + x2, data = df)
 lm(y~.,df)
 
 #note to self: finished this 4/21/2021
+
+#make sure to add plot - add library ggplot2, and make a scatterplot
