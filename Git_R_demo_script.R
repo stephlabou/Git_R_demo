@@ -8,3 +8,5 @@ lm(y~x1 + x2, data = df)
 
 #same result, different syntax
 lm(y~.,df)
+
+#note to self: finished this 4/21/2021
