@@ -12,3 +12,5 @@ lm(y~.,df)
 #note to self: finished this 4/21/2021
 
 #make sure to add plot - add library ggplot2, and make a scatterplot
+
+#good job on setting up an R project as a git repo!
